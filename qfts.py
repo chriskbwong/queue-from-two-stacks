@@ -1,3 +1,7 @@
+'''
+basic interview question in python
+'''
+
 class Queue(object):
     def __init__(self):
         self.instack=[]
