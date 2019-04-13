@@ -1,7 +1,7 @@
-'''
-basic interview question in python
-question taken from daily coding problem
-'''
+
+# basic interview question in python
+# question taken from daily coding problem
+
 
 class Queue(object):
     def __init__(self):
