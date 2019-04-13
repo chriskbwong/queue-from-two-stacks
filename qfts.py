@@ -1,4 +1,3 @@
-
 # basic interview question in python
 # question taken from daily coding problem
 
